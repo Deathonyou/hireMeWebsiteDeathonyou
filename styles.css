@@ -217,10 +217,7 @@
   width: calc(100% - 260px);
   transition: all 0.5s ease;
 }
-.body1 {
-  background-color:#E4E9F7;
-  align-content: center;
-}
+
 .sidebar.close ~ .home-section{
   left: 78px;
   width: calc(100% - 78px);
